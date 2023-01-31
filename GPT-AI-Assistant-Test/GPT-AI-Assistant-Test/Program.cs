@@ -10,7 +10,7 @@ if (str.Length > 0)
 
     HttpClient client = new HttpClient();
 
-    client.DefaultRequestHeaders.Add("authorization", "Bearer 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");
+    client.DefaultRequestHeaders.Add("authorization", "Bearer key");
 
     var content = new StringContent("{\"model\": \"text-davinci-003\",\r\n  \"prompt\": \"" + str + "\",\r\n  \"max_tokens\": 1000,\r\n  \"temperature\": 0}", Encoding.UTF8, "application/json");
 
