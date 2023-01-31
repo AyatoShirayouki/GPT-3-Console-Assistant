@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "VTxFGXSnJI+AUhTOIVIpOCb646dN75O1Mqm9va5PgFpOqh2ENeho9CoukI3JW0M9f5wROfRjmAg2/0bhedon7A==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\GPT-AI-Assistant-Test\\GPT-AI-Assistant-Test\\GPT-AI-Assistant-Test\\GPT-AI-Assistant-Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trail\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\trail\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\trail\\.nuget\\packages\\textcopy\\6.2.1\\textcopy.6.2.1.nupkg.sha512",
+    "C:\\Users\\trail\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.9\\microsoft.netcore.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\trail\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.9\\microsoft.aspnetcore.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\trail\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.9\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\trail\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.9\\microsoft.netcore.app.crossgen2.win-x64.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
